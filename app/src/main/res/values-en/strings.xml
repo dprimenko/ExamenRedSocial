@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedSocial</string>
+    <string name="accept">Accept</string>
+    <string name="account">Account</string>
+    <string name="account_noselected">You must select account</string>
+    <string name="add">Add</string>
+    <string name="alert"></string>
+    <string name="data_empty">Data don\'t must be empty</string>
+    <string name="email"></string>
+    <string name="frien_exists">You already have this friend in your list</string>
+    <string name="login" translatable="false"></string>
+    <string name="login_failed">Login failed</string>
+    <string name="name">Name:</string>
+    <string name="password">Password:</string>
+    <string name="password_empty">You must introduce your password</string>
+    <string name="title_login">Login your account</string>
+    <string name="username">User:</string>
+    <string name="username_empty">You must introduce an user</string>
+</resources>

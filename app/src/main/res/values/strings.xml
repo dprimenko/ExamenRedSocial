@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RedSocial</string>
+    <string name="title_login">Login en tu cuenta</string>
+    <string name="name">Nombre: </string>
+    <string name="username">Usuario: </string>
+    <string name="email" translatable="false">Email: </string>
+    <string name="password">Contraseña: </string>
+    <string name="login" translatable="false">Login</string>
+    <string name="alert" translatable="false">Error</string>
+    <string name="login_failed">Login fallido</string>
+    <string name="accept">Aceptar</string>
+    <string name="data_empty">Faltan datos por rellenar</string>
+    <string name="account_noselected">Debe seleccionar una cuenta</string>
+    <string name="username_empty">Debe introducir un usuario</string>
+    <string name="password_empty">Debe introducir la contraseña</string>
+    <string name="frien_exists">Ya tienes a este amigo en tu lista</string>
+    <string name="add">Añadir</string>
+    <string name="account">Cuenta</string>
+</resources>
